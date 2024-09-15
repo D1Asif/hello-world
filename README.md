@@ -29,4 +29,21 @@ Go to [Hello world](https://github.com/D1Asif/hello-world/tree/master?tab=readme
 Go to [Hello world with just ID](#hello-world)
 
 ## Images
-![discord](https://i.ibb.co.com/qpyYLVh/discord-logo.jpg)
+Here is an icon of next js
+
+![next JS](https://github.com/D1Asif/niramoy/blob/main/public/next.svg)
+
+## Lists
+List is american presidents:
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+## Nested list
+1. First Item
+   - First nested item
+      - Second nested item
+   - Second
+     - Third
+## Using emoji
+Thanks! :+1:
