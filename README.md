@@ -28,3 +28,6 @@ console.log(a);
 Go to [Hello world](https://github.com/D1Asif/hello-world/tree/master?tab=readme-ov-file#hello-world)
 Go to [Hello world with just ID](#hello-world)
 
+## Images
+![Pokemon](https://pixabay.com/vectors/pokemon-pikachu-cute-character-5426712/)
+
