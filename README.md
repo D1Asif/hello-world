@@ -25,5 +25,5 @@ const a = 10;
 console.log(a);
 ```
 ## Section links
-Go to [Hello world](https://github.com/D1Asif/hello-world/edit/master/README.md#hello-world)
+Go to [Hello world](https://github.com/D1Asif/hello-world/tree/master?tab=readme-ov-file#hello-world)
 
